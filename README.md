@@ -10,9 +10,9 @@ como e por onde começar :)
 1. ### Redes Neurais
     Abordagem da teoria, aos tipos e aplicações, como Redes neurais recorrentes, Generativas,convulacionais,...
      - Teoria Matematica       
-         - [Estrutura Basica]() 
-         - [Atribuicao e Atualizacao Pesos Neuronios]()
-         - [Gradient Descent]()
+         - [Estrutura Basica](https://github.com/Benjamim-EP/Tutoriais/blob/master/Redes%20Neurais%20(Neural%20Networks)/1-NN%20-%20Estrutura_Basica.ipynb) 
+         - [Atribuicao e Atualizacao Pesos Neuronios](https://github.com/Benjamim-EP/Tutoriais/blob/master/Redes%20Neurais%20(Neural%20Networks)/2-NN%20-%20Atribuicao%20_e_Atualizacao_Pesos_Neuronios.ipynb)
+         - [Gradient Descent](https://github.com/Benjamim-EP/Tutoriais/blob/master/Redes%20Neurais%20(Neural%20Networks)/3-NN-Gradient%20Descent.ipynb)
 
 2. ### Bibliotecas
     Explanação da Api e aplicação das prinicipais bibliotecas de IA e Data science
